@@ -1,9 +1,9 @@
 <h1 align="center">Привет👋 Меня зовут Рамзан</h1>
 <h3 align="center">Я бэкенд-инженер, сейчас работаю в компании "ООО-ВАШ-РАЗРАБОТЧИК".</h3>
 
-- 🔭 I’m currently working on **vue-sneakers**
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Vue, PostgreSQL**
+- 🌱 I’m currently learning 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ramzan009](https://github.com/ramzan009)
 
